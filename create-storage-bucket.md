@@ -51,6 +51,7 @@ Les buckets sont les conteneurs de base dans lesquels sont stockées vos donnée
   * Cliquez sur Enregistrer.
   * Dans la fenêtre Voulez-vous vraiment rendre cette ressource publique ?, cliquez sur Autoriser l'accès public.
 * Pour vérifier, cliquez sur l'onglet Objets pour revenir à la liste des objets. La colonne Accès public de votre objet doit indiquer Public sur Internet. Le bouton Copier l'URL fournit une URL partageable semblable à la suivante : https://storage.googleapis.com/YOUR_BUCKET_NAME/kitten.png
+
 * Pour supprimer l'accès public du bucket et cesser de partager l'image publiquement :
   * Cliquez sur l'onglet Autorisations au-dessus de la liste des objets.
   * Cochez la case associée à l'entrée contenant allUsers dans la colonne Compte principal.
@@ -61,7 +62,7 @@ Les buckets sont les conteneurs de base dans lesquels sont stockées vos donnée
 
 Remarque : Une fois que vous avez supprimé l'accès public à l'image, vous pouvez toujours accéder à une version mise en cache de celle-ci pendant un certain temps.
 
-## Créer des dossiers
+## Créer des dossiers
 
 * Dans l'onglet Objets, cliquez sur Créer un dossier.
 * Saisissez folder1 dans le champ Nom et cliquez sur Créer.
@@ -75,7 +76,7 @@ Remarque : Une fois que vous avez supprimé l'accès public à l'image, vous pou
   * Dans la fenêtre de sélection de fichier, accédez à la capture d'écran que vous avez téléchargée et sélectionnez-la.
 * Une fois le transfert terminé, vous devriez voir le nom du fichier et des informations le concernant, telles que sa taille et son type.
 
-## Supprimer les objets
+## Supprimer les objets
 
 * Cliquez sur la flèche à côté de Détails du bucket pour revenir au niveau des buckets.
 * Sélectionnez le bucket.
@@ -84,7 +85,7 @@ Remarque : Une fois que vous avez supprimé l'accès public à l'image, vous pou
 * Dans la fenêtre qui s'ouvre, saisissez le nom du dossier à supprimer.
 * Cliquez sur Supprimer pour supprimer définitivement le dossier, ainsi que tous les objets et sous-dossiers qu'il contient.
 
-## Nettoyage
+## Nettoyage
 
 * Ouvrez la page "Buckets Cloud Storage" dans la console Google Cloud.
 * Ouvrir la page "Buckets"
