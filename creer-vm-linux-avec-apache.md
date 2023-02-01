@@ -59,6 +59,11 @@ echo '<!doctype html><html><body><h1>Hello World!</h1></body></html>' | sudo tee
 * Dans un navigateur, accédez à http://[EXTERNAL_IP]. Ne vous connectez pas à l'aide de https, car cela renvoie une erreur Connection Refused au serveur.
 * La page "Hello World!" doit s'afficher.
 
+## Pour aller plus loin
+
+* Vous pouvez créer un modèle d'instance à partir de la VM créé : https://cloud.google.com/compute/docs/instance-templates/create-instance-templates?hl=fr#based-on-existing-instance 
+
+
 ## Nettoyage
 
 Pour éviter que les ressources utilisées sur cette page soient facturées sur votre compte Google Cloud, procédez comme suit :
