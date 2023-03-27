@@ -4,12 +4,16 @@
 
 - [Créer une VM](creer-vm-linux-avec-apache.md)
 - [Créer un bucket et gérer les documents](create-storage-bucket.md)
-- [Utiliser flask dans App engine](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-1-flask?hl=fr#0)
 - [Créer une base cloud SQL](cloud-sql/readme.md)
+
+### Python
+- [Utiliser flask dans App engine](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-1-flask?hl=fr#0)
 - [Utiliser Next Database avec votre appli python](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-2-cloudndb?hl=fr#0)
 - [Miggrer de NDB vers Cloud Datastore(anglais)](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-3-datastore#0)
+- [Gérer des queues de message avec Pub/Sub](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-19-pubsub#2)
 - [Migrer de App Engine vers Cloud Run avec Docker](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-4-rundocker?hl=fr#0)
 - [Construire son image de conteneur avec Cloud BuildPack (anglais)](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-5-runbldpks?hl=en#0)
+- [Migrer vers les clouds fonctions](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-11-functions?hl=en#0)
 
 
 ## GKE 
