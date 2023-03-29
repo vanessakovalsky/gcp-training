@@ -19,7 +19,6 @@ from google.cloud import datastore
 app = Flask(__name__)
 ds_client = datastore.Client()
 
-
 def store_visit(remote_addr, user_agent):
     entity = datastore.Entity(key=ds_client.key('Visit'))
     entity.update({

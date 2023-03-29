@@ -13,7 +13,7 @@
 - [Utiliser flask dans App engine](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-1-flask?hl=fr#0)
 - [Utiliser Next Database avec votre appli python](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-2-cloudndb?hl=fr#0)
 - [Miggrer de NDB vers Cloud Datastore(anglais)](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-3-datastore#0)
-- [Migrer de blobstore vers Cloud Storage(anglais)](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-16-cloudstorage?hl=en#0)
+- [Migrer de blobstore vers Cloud Storage](add-storage-to-app.md)
 - [Gérer des queues de message avec Pub/Sub](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-19-pubsub#2)
 - [Utiliser l'API de traduction dans une application](https://codelabs.developers.google.com/codelabs/cloud-nebulous-serverless-python-flask?hl=en#0)
 - [Migrer vers les clouds fonctions](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-11-functions?hl=en#0)
