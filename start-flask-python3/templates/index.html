@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+<title>VisitMe Example</title>
+</head>
+<body>
+
+<h1>VisitMe example</h1>
+<h3>Last 10 visits</h3>
+<ul>
+{% for visit in visits %}
+    <li>{{ visit.timestamp.ctime() }} from {{ visit.visitor }}</li>
+{% endfor %}
+</ul>
+
+</body>
+</html>
