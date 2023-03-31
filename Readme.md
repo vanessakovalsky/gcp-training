@@ -22,7 +22,6 @@
 - [Deployer avec cloud run](https://codelabs.developers.google.com/codelabs/cloud-nebulous-serverless-python-gcr3?hl=en#0)
 - [Deployer avec cloud buildpack](https://codelabs.developers.google.com/codelabs/cloud-nebulous-serverless-python-gcrbp?hl=en#0)
 - [Deployer dans cloud fonction](https://codelabs.developers.google.com/codelabs/cloud-nebulous-serverless-python-gcf?hl=en#0)
-- [Deploiement continu sur GKE avec Cloub Build](https://codelabs.developers.google.com/codelabs/cloud-builder-gke-continuous-deploy#0) 
 - [Debugguer une application](https://codelabs.developers.google.com/codelabs/cloud-function-logs-traces?continue=https%3A%2F%2Fcodelabs.developers.google.com%2Fcloud#0) 
 
 ## GKE 
@@ -73,4 +72,5 @@ https://www.qwiklabs.com/focuses/4186?catalog_rank=%7B%22rank%22%3A12%2C%22num_f
 - [Migrer de App Engine vers Cloud Run avec Docker](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-4-rundocker?hl=fr#0)
 - [Construire son image de conteneur avec Cloud BuildPack (anglais)](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-5-runbldpks?hl=en#0)
 - [Automatiser le déploiement avec Cloud manager](https://cloud.google.com/python/tutorials/bookshelf-deployment-manager?hl=fr)
+- [Deploiement continu sur GKE avec Cloub Build](https://codelabs.developers.google.com/codelabs/cloud-builder-gke-continuous-deploy#0) 
 
