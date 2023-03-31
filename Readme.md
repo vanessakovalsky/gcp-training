@@ -26,7 +26,7 @@
 
 ## GKE 
 
-- [Premier cluster  - 1h30](https://www.qwiklabs.com/focuses/10470?locale=fr&parent=catalog) 
+- [Premier cluster  - 1h30](https://www.qwiklabs.com/focuses/10470?locale=fr&parent=catalog)
 - [Créer une image et la déployer - 1h30](https://google.qwiklabs.com/focuses/1738?parent=catalog) 
 - [Mise à jour d’une application et mise à l’échelle - 1h00](https://google.qwiklabs.com/focuses/1739?parent=catalog)
 - [Utiliser le réseau avec GKE](https://cloud.google.com/kubernetes-engine/docs/tutorials/http-balancer?hl=fr)
