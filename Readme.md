@@ -14,7 +14,7 @@
 - [Utiliser Next Database avec votre appli python](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-2-cloudndb?hl=fr#0)
 - [Miggrer de NDB vers Cloud Datastore(anglais)](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-3-datastore#0)
 - [Migrer de blobstore vers Cloud Storage](add-storage-to-app.md)
-- [Gérer des queues de message avec Pub/Sub](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-19-pubsub#2)
+- [Gérer des queues de message avec Pub/Sub](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-19-pubsub#0)
 - [Utiliser l'API de traduction dans une application](https://codelabs.developers.google.com/codelabs/cloud-nebulous-serverless-python-flask?hl=en#0)
 - [Migrer vers les clouds fonctions](https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-11-functions?hl=en#0)
 
@@ -22,6 +22,7 @@
 - [Deployer avec cloud run](https://codelabs.developers.google.com/codelabs/cloud-nebulous-serverless-python-gcr3?hl=en#0)
 - [Deployer avec cloud buildpack](https://codelabs.developers.google.com/codelabs/cloud-nebulous-serverless-python-gcrbp?hl=en#0)
 - [Deployer dans cloud fonction](https://codelabs.developers.google.com/codelabs/cloud-nebulous-serverless-python-gcf?hl=en#0)
+- [Monitoring et Logging d'une application dans GCP](https://codelabs.developers.google.com/cloud-operations-handson-with-gcloud?hl=en#0)
 - [Debugguer une application](https://codelabs.developers.google.com/codelabs/cloud-function-logs-traces?continue=https%3A%2F%2Fcodelabs.developers.google.com%2Fcloud#0) 
 
 ## GKE 
